@@ -1,4 +1,4 @@
-## Challenge Amigo Secreto
+## Challenge Secret Santa
 
 This project was created to help me improve my programming logic skills. In this project, I solved practical and challenging problems.<br/>
 
